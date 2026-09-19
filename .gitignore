@@ -1,0 +1,5 @@
+﻿/target
+/stdout.log
+/stderr.log
+*.exe
+.DS_Store
